@@ -1,0 +1,2 @@
+! 14 Oct 2025 https://chatgpt.com
+chatgpt.com##.gap-1\.5.items-center.flex.ms-auto > .flex > div > span > .composer-btn
